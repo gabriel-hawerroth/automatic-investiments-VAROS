@@ -21,6 +21,7 @@ platformdirs==4.3.2
 pyparsing==3.1.4
 python-dateutil==2.9.0.post0
 pytz==2024.1
+pywin32==306
 requests==2.32.3
 setuptools==74.1.2
 six==1.16.0
